@@ -1,38 +1,34 @@
 <div align="center">
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=hanxw&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=developer%20%2F%2F%20builder%20%2F%2F%20problem%20solver&descAlignY=60&descSize=17&animation=fadeIn&color=0d1117" width="100%"/>
-
-<br>
-
-# `hanxw`
-
-### `developer / builder / problem solver`
-
-<br>
-
 <a href="https://github.com/hanxw">
-<img src="https://img.shields.io/github/followers/hanxw?style=for-the-badge&label=followers&labelColor=0d1117&color=21262d">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&section=header&text=HANXW&fontSize=105&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20%2F%2F%20BUILDER%20%2F%2F%20PROBLEM%20SOLVER&descAlignY=61&descSize=18&animation=fadeIn&color=0:000000,45:0a0a0a,75:151515,100:000000"/>
+
 </a>
 
- 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=650&color=FFFFFF&center=true&vCenter=true&width=850&height=55&lines=building+software+from+zero;turning+ideas+into+code;breaking+things+to+understand+them;C+%7C+C%2B%2B+%7C+Python+%7C+Java+%7C+JavaScript;always+building+something"/>
+
+<br><br>
 
 <a href="https://github.com/hanxw">
-<img src="https://img.shields.io/github/stars/hanxw?style=for-the-badge&label=stars&labelColor=0d1117&color=21262d">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
-
- 
-
+&nbsp;
 <a href="https://t.me/hanxw">
-<img src="https://img.shields.io/badge/telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=ffffff">
+<img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=ffffff"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=hanxw&style=for-the-badge&color=000000&label=PROFILE+VIEWS"/>
 
 <br><br>
 
 <samp>
 
-`software`   `systems`   `web`   `experiments`
+`SOFTWARE`   `SYSTEMS`   `WEB`   `EXPERIMENTS`
 
 </samp>
 
@@ -45,33 +41,22 @@
 <div align="center">
 
 ```text
-╭──────────────────────────────────────────────────────────────────────╮
-│                                                                      │
-│                         welcome to hanxw.dev                         │
-│                                                                      │
-│       I build software, experiment with ideas and learn by           │
-│       turning things that shouldn't exist into things that work.     │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                         W E L C O M E                                ║
+║                                                                      ║
+║                             to                                      ║
+║                                                                      ║
+║                           H A N X W                                  ║
+║                                                                      ║
+║              software  •  systems  •  web  •  ideas                ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
-
-</div>
 
 <br>
 
-<div align="center">
-
-### `01`   about
-
-### `02`   stack
-
-### `03`   workflow
-
-### `04`   projects
-
-### `05`   github
-
-### `06`   contact
+### `I BUILD THINGS. I BREAK THINGS. I LEARN. I REPEAT.`
 
 </div>
 
@@ -79,385 +64,183 @@
 
 ---
 
-# `01 / about`
+# `01 / WHOAMI`
 
 <br>
 
 <table>
 <tr>
-<td width="55%" valign="top">
 
-## `whoami`
+<td width="58%" valign="top">
 
-I'm **hanxw**, a developer who enjoys building software and understanding how things work.
+## `hello, world.`
 
-I don't really stick to one layer of development.
+I'm **hanxw** — a developer who enjoys turning ideas into actual software.
 
-Sometimes it's low-level C.
+I like understanding how things work instead of simply making them work.
 
-Sometimes it's C++.
+Sometimes that means writing low-level code.
 
-Sometimes it's Python.
+Sometimes it's a web project.
 
-Sometimes it's JavaScript running in a browser.
+Sometimes it's automation.
 
-Sometimes it's Java.
+Sometimes it's an experiment that started at 2 AM and somehow became a project.
 
-The interesting part is the process of going from:
+The language changes.
+
+The curiosity doesn't.
+
+<br>
 
 ```text
-idea
-  ↓
-code
-  ↓
-something broken
-  ↓
-debugging
-  ↓
-something useful
+                         ┌──────────────┐
+                         │    IDEA      │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │     CODE     │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │    ERROR     │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │    DEBUG     │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │    LEARN     │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │     SHIP     │
+                         └──────────────┘
 ```
 
 </td>
 
-<td width="45%" valign="top">
+<td width="42%" valign="top">
+
+```text
+┌──────────────────────────────┐
+│        SYSTEM STATUS         │
+├──────────────────────────────┤
+│                              │
+│  user       hanxw            │
+│  role       developer        │
+│  status     ● ONLINE         │
+│  mode       BUILDING         │
+│                              │
+│  focus                      │
+│  ├─ software                │
+│  ├─ systems                 │
+│  ├─ web                     │
+│  └─ experiments             │
+│                              │
+│  learning   ████████████     │
+│  curiosity  ███████████████  │
+│  bugs       ∞                │
+│                              │
+└──────────────────────────────┘
+```
+
+<br>
 
 ```text
 ┌──────────────────────────────┐
 │                              │
-│       SYSTEM STATUS          │
+│       CURRENT OBJECTIVE      │
 │                              │
-│  user       hanxw            │
-│  role       developer        │
-│  status     online           │
-│  mode       building         │
-│  focus      software         │
-│                              │
-│  coffee     optional         │
-│  bugs       inevitable       │
+│       BUILD SOMETHING        │
+│       WORTH REMEMBERING      │
 │                              │
 └──────────────────────────────┘
 ```
 
 </td>
+
 </tr>
 </table>
 
-<br>
-
-## `what I care about`
-
-```text
-01   understanding
-     └─ knowing why something works instead of only knowing how
-
-02   simplicity
-     └─ fewer moving parts, clearer code
-
-03   experimentation
-     └─ building things just to see what happens
-
-04   performance
-     └─ making software do more with less
-
-05   shipping
-     └─ finished and imperfect > perfect and unfinished
-```
-
-<br>
-
 ---
 
-# `02 / stack`
-
-<br>
+# `02 / STACK`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&theme=dark&perline=7" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&theme=dark&perline=7"/>
+
+<br><br>
 
 </div>
 
-<br>
-
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### `systems`
+<td width="33%" align="center">
+
+### `LOW LEVEL`
 
 ```text
 C
 C++
-
-low-level programming
-memory
-performance
-systems thinking
 ```
+
+`memory`
+
+`performance`
+
+`systems`
+
+`logic`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### `programming`
+### `SOFTWARE`
 
 ```text
 Python
 Java
-
-automation
-applications
-experimentation
-problem solving
 ```
 
+`automation`
+
+`applications`
+
+`tools`
+
+`experiments`
+
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### `web`
+### `WEB`
 
 ```text
 JavaScript
 HTML
 CSS
-
-interfaces
-web applications
-frontend experiments
 ```
 
-</td>
+`interfaces`
 
-<td width="50%" valign="top">
+`frontend`
 
-### `mindset`
+`interaction`
 
-```text
-learn
-build
-break
-debug
-refactor
-ship
-repeat
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### `languages`
-
-```text
-C              ████████████████████
-C++            ████████████████████
-Python         ████████████████████
-Java           █████████████████░░░
-JavaScript     █████████████████░░░
-HTML           ████████████████████
-CSS            ███████████████████░
-```
-
-<br>
-
-> The bars are not skill percentages.
-> They're just a cool way of saying: **these are the tools I use.**
-
----
-
-# `03 / workflow`
-
-<br>
-
-<div align="center">
-
-```text
-                         ┌─────────────┐
-                         │    IDEA     │
-                         └──────┬──────┘
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │   EXPLORE   │
-                         └──────┬──────┘
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │    BUILD    │
-                         └──────┬──────┘
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │    BREAK    │
-                         └──────┬──────┘
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │    DEBUG    │
-                         └──────┬──────┘
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │   REFACTOR  │
-                         └──────┬──────┘
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │    SHIP     │
-                         └──────┬──────┘
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │    LEARN    │
-                         └──────┬──────┘
-                                │
-                                └───────────────┐
-                                                │
-                                                ▼
-                                               IDEA
-```
-
-</div>
-
-<br>
-
-### `the rule`
-
-```text
-build > talk
-
-understanding > memorizing
-
-curiosity > comfort
-
-finished > perfect
-
-real code > empty repositories
-```
-
-<br>
-
----
-
-# `04 / projects`
-
-<br>
-
-<div align="center">
-
-### `selected work`
-
-<samp>projects, experiments and things that seemed like a good idea at 3am</samp>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## `01`
-
-# `forge`
-
-`C++` · `CLI` · `systems`
-
-A focused C++ utility built around speed, simplicity and doing one thing properly.
-
-<br>
-
-**status**
-
-`██████████████████░░` `active`
-
-<br>
-
-<a href="https://github.com/hanxw">
-<img src="https://img.shields.io/badge/view_project-0d1117?style=flat-square&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## `02`
-
-# `spectre`
-
-`Python` · `automation` · `tooling`
-
-A lightweight automation project designed to remove repetitive work.
-
-<br>
-
-**status**
-
-`█████████████████░░░` `building`
-
-<br>
-
-<a href="https://github.com/hanxw">
-<img src="https://img.shields.io/badge/view_project-0d1117?style=flat-square&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## `03`
-
-# `pulse`
-
-`JavaScript` · `HTML` · `CSS`
-
-A minimal web project built around a simple idea.
-
-<br>
-
-**status**
-
-`████████████████░░░░` `experimental`
-
-<br>
-
-<a href="https://github.com/hanxw">
-<img src="https://img.shields.io/badge/view_project-0d1117?style=flat-square&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## `04`
-
-# `nexus`
-
-`C` · `C++` · `networking`
-
-Experiments with systems, networking and understanding what's happening underneath.
-
-<br>
-
-**status**
-
-`██████████████░░░░░░` `research`
-
-<br>
-
-<a href="https://github.com/hanxw">
-<img src="https://img.shields.io/badge/view_project-0d1117?style=flat-square&logo=github&logoColor=white">
-</a>
+`design`
 
 </td>
 
@@ -466,366 +249,579 @@ Experiments with systems, networking and understanding what's happening undernea
 
 <br>
 
-> **Note:** replace these four placeholders with your actual repositories.
-> Don't put projects here just because they look good — put projects here because they're worth opening.
-
-<br>
-
----
-
-# `05 / currently`
-
-<br>
-
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│                         CURRENT STATE                                │
-│                                                                      │
-│                                                                      │
-│   [ ONLINE ]                                                        │
-│                                                                      │
-│   learning          █████████████████████░  active                  │
-│   building          ████████████████████░░  active                  │
-│   experimenting     ██████████████████████  active                  │
-│   debugging         ██████████████████████  inevitable              │
-│                                                                      │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+C             ████████████████████
+C++           ████████████████████
+Python        ████████████████████
+Java          ██████████████████░░
+JavaScript    ██████████████████░░
+HTML          ████████████████████
+CSS           ███████████████████░
 ```
+
+<samp>
+
+These bars aren't percentages.
+They are just a visual representation of the tools I work with.
+
+</samp>
 
 </div>
-
-<br>
-
-```text
-currently interested in:
-
-→ software development
-→ systems programming
-→ automation
-→ web development
-→ understanding how things work
-→ building projects from scratch
-```
-
-<br>
 
 ---
 
-# `06 / github`
+# `03 / THE MINDSET`
 
 <br>
 
 <div align="center">
-
-### `statistics`
-
-<br>
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=hanxw&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff"
-height="180"
-/>
-
-  
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanxw&layout=compact&langs_count=7&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e"
-height="180"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=hanxw&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"
-width="700"
-/>
-
-</div>
-
-<br>
-
----
-
-# `07 / activity`
-
-<br>
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=hanxw&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=hanxw%20/%20activity"
-width="96%"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-──────────────────────────────────────────────────────────────────────
-
-                     code speaks louder.
-
-──────────────────────────────────────────────────────────────────────
-```
-
-</div>
-
-<br>
-
----
-
-# `08 / philosophy`
-
-<br>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+
+<td align="center" width="25%">
 
 ### `01`
 
-## Build things.
+## BUILD
 
-The fastest way to understand an idea is often to implement it.
+Ideas are cheap.
+
+Building them is the interesting part.
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
 ### `02`
 
-## Break things.
+## BREAK
 
-If something never breaks, you probably haven't pushed it far enough.
+If something breaks,
+find out **why**.
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
 ### `03`
 
-## Read the code.
+## LEARN
 
-Documentation tells you how.
+Every bug is another
+piece of the system.
 
-Source code tells you why.
+</td>
+
+<td align="center" width="25%">
+
+### `04`
+
+## SHIP
+
+Perfect doesn't matter
+if nothing ships.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+```text
+BUILD  →  BREAK  →  UNDERSTAND  →  IMPROVE  →  SHIP  →  REPEAT
+   ↑                                                       │
+   └───────────────────────────────────────────────────────┘
+```
+
+---
+
+# `04 / WORKFLOW`
+
+<div align="center">
+
+```text
+                         ┌───────────────┐
+                         │     IDEA      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    RESEARCH   │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     BUILD     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     BREAK     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     DEBUG     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    REFACTOR   │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     SHIP      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     LEARN     │
+                         └───────┬───────┘
+                                 │
+                                 └──────────────► NEXT IDEA
+```
+
+</div>
+
+---
+
+# `05 / PROJECTS`
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## `01 — FORGE`
+
+```text
+SYSTEM / PERFORMANCE
+```
+
+A place for low-level experiments,
+utilities and things that need to
+be fast.
+
+<br>
+
+`C` `C++`
+
+<br>
+
+`SYSTEMS` `PERFORMANCE` `TOOLS`
+
+<br>
+
+<a href="https://github.com/hanxw">
+
+`[ VIEW PROJECT → ]`
+
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### `04`
-
-## Keep going.
-
-Most interesting problems look impossible before they become simple.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
+## `02 — SPECTRE`
 
 ```text
-"the best way to learn is to build something
- you don't completely understand yet."
+EXPERIMENTAL / AUTOMATION
 ```
 
-</div>
+Experiments, automation and ideas
+that start as "what if?"
 
 <br>
 
----
-
-# `09 / timeline`
+`Python` `JavaScript`
 
 <br>
 
-```text
-        START
-          │
-          ▼
-     ┌──────────┐
-     │ curiosity│
-     └────┬─────┘
-          │
-          ▼
-     ┌──────────┐
-     │  coding  │
-     └────┬─────┘
-          │
-          ▼
-     ┌──────────┐
-     │ projects │
-     └────┬─────┘
-          │
-          ▼
-     ┌──────────┐
-     │ mistakes │
-     └────┬─────┘
-          │
-          ▼
-     ┌──────────┐
-     │ learning │
-     └────┬─────┘
-          │
-          ▼
-     ┌──────────┐
-     │  better  │
-     └────┬─────┘
-          │
-          ▼
-        NEXT
-```
+`AUTOMATION` `EXPERIMENTS` `LOGIC`
 
 <br>
-
-```text
-there is always something next.
-```
-
----
-
-# `10 / terminal`
-
-<br>
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│ hanxw@github:~$ whoami                                              │
-│                                                                      │
-│ developer                                                            │
-│                                                                      │
-│ hanxw@github:~$ cat interests.txt                                   │
-│                                                                      │
-│ software                                                             │
-│ systems                                                              │
-│ web                                                                  │
-│ automation                                                           │
-│ experiments                                                          │
-│                                                                      │
-│ hanxw@github:~$ echo $STATUS                                         │
-│                                                                      │
-│ building                                                             │
-│                                                                      │
-│ hanxw@github:~$ _                                                    │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br>
-
----
-
-# `11 / contact`
-
-<br>
-
-<div align="center">
-
-### `let's talk`
-
-<br>
-
-<a href="https://t.me/hanxw">
-
-<img
-src="https://img.shields.io/badge/%40hanxw-ffffff?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=ffffff"
-/>
-
-</a>
-
- 
 
 <a href="https://github.com/hanxw">
 
-<img
-src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117"
-/>
+`[ VIEW PROJECT → ]`
 
 </a>
 
-</div>
+</td>
 
-<br>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## `03 — PULSE`
 
 ```text
-telegram    @hanxw
-github      github.com/hanxw
+WEB / INTERFACE
 ```
 
+Web experiments focused on clean
+interfaces and interaction.
+
 <br>
+
+`JavaScript` `HTML` `CSS`
+
+<br>
+
+`WEB` `UI` `EXPERIMENTS`
+
+<br>
+
+<a href="https://github.com/hanxw">
+
+`[ VIEW PROJECT → ]`
+
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## `04 — NEXUS`
+
+```text
+PLAYGROUND
+```
+
+A collection of ideas, prototypes
+and unfinished experiments.
+
+<br>
+
+`Java` `Python` `C++`
+
+<br>
+
+`PROTOTYPES` `LEARNING` `BUILDING`
+
+<br>
+
+<a href="https://github.com/hanxw">
+
+`[ VIEW PROJECT → ]`
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-# `12 / final`
-
-<br><br>
+# `06 / TERMINAL`
 
 <div align="center">
 
 ```text
 ╭──────────────────────────────────────────────────────────────────────╮
+│ ● ● ●                                                                │
+├──────────────────────────────────────────────────────────────────────┤
 │                                                                      │
+│ hanxw@github:~$ whoami                                               │
 │                                                                      │
-│                         KEEP BUILDING.                               │
+│ developer                                                             │
 │                                                                      │
+│ hanxw@github:~$ ls                                                   │
 │                                                                      │
-│                    break things. learn things.                       │
-│                         ship things.                                 │
+│ projects/   experiments/   systems/   web/   ideas/                  │
 │                                                                      │
+│ hanxw@github:~$ cat stack                                            │
+│                                                                      │
+│ C  C++  Python  Java  JavaScript  HTML  CSS                          │
+│                                                                      │
+│ hanxw@github:~$ ./status                                             │
+│                                                                      │
+│ ┌──────────────────────────────────────────────────────────────┐     │
+│ │                                                              │     │
+│ │   SYSTEM       ONLINE                                        │     │
+│ │   BUILD        ACTIVE                                        │     │
+│ │   LEARNING     ACTIVE                                        │     │
+│ │   DEBUGGING    INEVITABLE                                    │     │
+│ │                                                              │     │
+│ └──────────────────────────────────────────────────────────────┘     │
+│                                                                      │
+│ hanxw@github:~$ echo "keep building"                                │
+│                                                                      │
+│ keep building                                                        │
+│                                                                      │
+│ hanxw@github:~$ _                                                    │
 │                                                                      │
 ╰──────────────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+# `07 / GITHUB`
+
+<div align="center">
+
+### `STATISTICS`
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hanxw&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanxw&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&langs_count=8"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hanxw&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=777777"/>
+
+</div>
+
+---
+
+# `08 / ACTIVITY`
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hanxw&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=HANXW%20%2F%2F%20CONTRIBUTION%20ACTIVITY"/>
+
+</div>
+
+---
+
+# `09 / CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/hanxw/hanxw/output/github-contribution-grid-snake-dark.svg"/>
+
+<br>
+
+<samp>
+
+`watch the code grow`
+
+</samp>
+
+</div>
+
+---
+
+# `10 / CURRENTLY`
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                         CURRENT STATE                                ║
+║                                                                      ║
+║                                                                      ║
+║       ● CODING             ACTIVE                                    ║
+║       ● LEARNING           ACTIVE                                    ║
+║       ● BUILDING           ACTIVE                                    ║
+║       ● EXPERIMENTING      ACTIVE                                    ║
+║       ● DEBUGGING          INEVITABLE                                ║
+║                                                                      ║
+║                                                                      ║
+║                         STATUS: ONLINE                               ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# `11 / TIMELINE`
+
+```text
+     CURIOUS
+        │
+        ▼
+   STARTED CODING
+        │
+        ▼
+   FIRST PROJECT
+        │
+        ▼
+   FIRST BIG BUG
+        │
+        ▼
+   "WHY DOES THIS HAPPEN?"
+        │
+        ▼
+     DEBUGGING
+        │
+        ▼
+      LEARNING
+        │
+        ▼
+     BUILDING
+        │
+        ▼
+     SHIPPING
+        │
+        ▼
+     IMPROVING
+        │
+        ▼
+    NEXT PROJECT
+        │
+        ▼
+        ∞
+```
+
+---
+
+# `12 / PRINCIPLES`
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+```text
+01
+```
+
+### UNDERSTAND
+
+Don't just use it.
+
+Understand it.
+
+</td>
+
+<td align="center">
+
+```text
+02
+```
+
+### SIMPLIFY
+
+Good code doesn't
+need to be complicated.
+
+</td>
+
+<td align="center">
+
+```text
+03
+```
+
+### EXPERIMENT
+
+Build things simply
+because you can.
+
+</td>
+
+<td align="center">
+
+```text
+04
+```
+
+### SHIP
+
+A finished project
+beats an abandoned idea.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# `13 / CONTACT`
+
+<div align="center">
+
+<br>
+
+### `LET'S BUILD SOMETHING`
+
+<br>
+
+<a href="https://github.com/hanxw">
+<img src="https://img.shields.io/badge/GITHUB-hanxw-ffffff?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+
+ 
+
+<a href="https://t.me/hanxw">
+<img src="https://img.shields.io/badge/TELEGRAM-%40hanxw-ffffff?style=for-the-badge&logo=telegram&logoColor=000000"/>
+</a>
+
+<br><br>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│                         HANXW                                 │
+│                                                              │
+│              developer / builder / explorer                  │
+│                                                              │
+│                 always building something.                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=KEEP+BUILDING.;KEEP+LEARNING.;KEEP+SHIPPING."/>
+
+<br><br>
+
+```text
+BUILD.
+BREAK.
+LEARN.
+SHIP.
+REPEAT.
 ```
 
 <br>
 
 <samp>
 
-**hanxw**
-
-`developer · builder · experimenter`
+`hanxw` · `developer` · `2026`
 
 </samp>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=hanxw&style=flat-square&color=21262d&label=profile+views">
-
-<br><br>
-
-<sub>© 2026 hanxw</sub>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-<samp>
-
-`EOF`
-
-</samp>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,45:111111,75:0a0a0a,100:000000"/>
 
 </div>
