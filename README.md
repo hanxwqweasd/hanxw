@@ -1,256 +1,298 @@
+<div align="center">
+
 # `hanxw`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117&text=hanxw&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=developer%20%2F%2F%20builder&descAlignY=58&descSize=18" width="100%">
-</p>
+### `software / systems / web`
 
-<p align="center">
-  <samp>
-    <b>developer</b> · software · systems · web
-  </samp>
-</p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/hanxw">
-    <img src="https://img.shields.io/github/followers/hanxw?style=flat-square&label=followers&labelColor=0d1117&color=30363d">
-  </a>
-  <a href="https://github.com/hanxw">
-    <img src="https://img.shields.io/github/stars/hanxw?style=flat-square&label=stars&labelColor=0d1117&color=30363d">
-  </a>
-  <a href="https://t.me/hanxw">
-    <img src="https://img.shields.io/badge/telegram-0d1117?style=flat-square&logo=telegram&logoColor=ffffff&labelColor=0d1117">
-  </a>
-</p>
+<a href="https://github.com/hanxw">
+<img src="https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="https://t.me/hanxw">
+<img src="https://img.shields.io/badge/telegram-0d1117?style=flat-square&logo=telegram&logoColor=white">
+</a>
+
+</div>
 
 <br>
 
 ```text
-                         ┌───────────────────────┐
-                         │                       │
-                         │       HANXW.DEV       │
-                         │                       │
-                         │   build > break > fix │
-                         │                       │
-                         └───────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│                         H A N X W                                    │
+│                                                                      │
+│                 developer / builder / experimenter                  │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-> I build software, experiment with ideas and learn by going deep into how things work.
+<br>
+
+> I write software because there's always something worth building.
 
 ---
-
-## `~/about`
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  NAME       hanxw                                           │
-│  ROLE       developer                                       │
-│  FOCUS      software / systems / web                        │
-│                                                             │
-│  LANGUAGES  C · C++ · Python · Java · JavaScript            │
-│             HTML · CSS                                      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+01 ────────────────────────────────────────────────────────────────────
+
+ABOUT
 ```
 
-I like turning ideas into working software.
+I'm a developer who likes understanding things by building them.
 
-Sometimes it's a useful tool.
-Sometimes it's an experiment.
-Sometimes it's something that absolutely did not need to exist.
+From low-level C and C++ to Python, Java and the web —
+I enjoy moving between different layers of software and seeing how they connect.
 
-That's usually the fun part.
+I don't really have a single direction.
+
+I build what interests me.
 
 ---
 
-## `~/stack`
+```text
+02 ────────────────────────────────────────────────────────────────────
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&theme=dark&perline=7" />
-</p>
+THE STACK
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&theme=dark" />
+
+</div>
 
 <br>
 
 ```text
-C             ████████████████████
-C++           ████████████████████
-Python        ███████████████████░
-Java          █████████████████░░░
-JavaScript    █████████████████░░░
-HTML          ████████████████████
-CSS           ███████████████████░
+C              low-level
+C++            systems / performance
+Python         scripting / automation
+Java           applications
+JavaScript     web
+HTML           structure
+CSS            styling
 ```
 
 ---
 
-## `~/philosophy`
-
 ```text
-                         IDEA
-                          │
-                          ▼
-                       ┌──────┐
-                       │BUILD │
-                       └──┬───┘
-                          │
-                          ▼
-                       ┌──────┐
-                       │BREAK │
-                       └──┬───┘
-                          │
-                          ▼
-                       ┌──────┐
-                       │DEBUG │
-                       └──┬───┘
-                          │
-                          ▼
-                       ┌──────┐
-                       │LEARN │
-                       └──┬───┘
-                          │
-                          ▼
-                        SHIP
+03 ────────────────────────────────────────────────────────────────────
+
+HOW I WORK
 ```
 
 ```text
-"good code isn't written.
- good code is rewritten."
+             ┌─────────────┐
+             │    IDEA     │
+             └──────┬──────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │    BUILD    │
+             └──────┬──────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │    BREAK    │
+             └──────┬──────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │   DEBUG     │
+             └──────┬──────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │   LEARN     │
+             └──────┬──────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │    SHIP     │
+             └─────────────┘
 ```
 
----
-
-## `~/currently`
-
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  [████████████████████░░]  learning                         │
-│  [███████████████████░░░]  building                         │
-│  [████████████████████░░]  experimenting                    │
-│  [██████████████████████]  overthinking                     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-```text
-status: online
-mode:   building
-coffee: optional
+build > talk
+curiosity > comfort
+understanding > memorizing
 ```
 
 ---
 
-## `~/projects`
+```text
+04 ────────────────────────────────────────────────────────────────────
 
-<p align="center">
-  <samp>less talking · more shipping</samp>
-</p>
+CURRENTLY
+```
 
-<table align="center">
+```text
+[ online ]
+
+learning        software
+building        projects
+exploring       new ideas
+debugging       everything
+```
+
+No particular roadmap.
+
+Just following interesting problems.
+
+---
+
+```text
+05 ────────────────────────────────────────────────────────────────────
+
+SELECTED WORK
+```
+
+<div align="center">
+
+<table>
 <tr>
-<td width="50%">
 
-### `01` — `forge`
+<td width="50%" valign="top">
 
-**C++**
+### `01`
 
-Fast, focused and built close to the metal.
+**your-project**
 
-</td>
-<td width="50%">
+Short description of the project.
 
-### `02` — `spectre`
-
-**Python**
-
-Automation without unnecessary complexity.
+`C++` · `systems` · `cli`
 
 </td>
+
+<td width="50%" valign="top">
+
+### `02`
+
+**your-project**
+
+Short description of the project.
+
+`Python` · `automation`
+
+</td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### `03` — `pulse`
+<td width="50%" valign="top">
 
-**JavaScript**
+### `03`
 
-A minimal web project built around a simple idea.
+**your-project**
 
-</td>
-<td width="50%">
+Short description of the project.
 
-### `04` — `nexus`
-
-**C / C++**
-
-Experiments with systems and networking.
+`JavaScript` · `web`
 
 </td>
+
+<td width="50%" valign="top">
+
+### `04`
+
+**your-project**
+
+Short description of the project.
+
+`C` · `low-level`
+
+</td>
+
 </tr>
 </table>
 
-> Replace these with your real projects when they're ready.
-
----
-
-## `~/github`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanxw&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&rank_icon=github" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanxw&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="170">
-</p>
-
----
-
-## `~/activity`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanxw&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=contribution%20activity" width="96%">
-</p>
-
----
-
-## `~/contact`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  github      github.com/hanxw                               │
-│  telegram    @hanxw                                         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<p align="center">
-  <a href="https://t.me/hanxw">
-    <img src="https://img.shields.io/badge/CONTACT-ffffff?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=ffffff">
-  </a>
-</p>
+</div>
 
 <br>
 
-<p align="center">
-  <samp>
-    ─────────────────────────────────────────
-  </samp>
-</p>
+```text
+more experiments → more repositories → more code
+```
 
-<p align="center">
-  <samp>
-    <b>keep building.</b>
-  </samp>
-</p>
+---
 
-<p align="center">
-  <samp>
-    ─────────────────────────────────────────
-  </samp>
-</p>
+```text
+06 ────────────────────────────────────────────────────────────────────
 
-<p align="center">
-  <sub>hanxw · 2026</sub>
-</p>
+GITHUB
+```
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=hanxw&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&rank_icon=github"
+height="165"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanxw&layout=compact&langs_count=7&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e"
+height="165"
+/>
+
+</div>
+
+---
+
+```text
+07 ────────────────────────────────────────────────────────────────────
+
+CONTRIBUTIONS
+```
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=hanxw&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=activity"
+width="95%"
+/>
+
+</div>
+
+---
+
+```text
+08 ────────────────────────────────────────────────────────────────────
+
+CONTACT
+```
+
+```text
+github      github.com/hanxw
+telegram    @hanxw
+```
+
+<div align="center">
+
+<a href="https://t.me/hanxw">
+
+<img src="https://img.shields.io/badge/%40hanxw-ffffff?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=ffffff">
+
+</a>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+```text
+────────────────────────────────────────────────────────────────────────
+
+                         keep building.
+
+────────────────────────────────────────────────────────────────────────
+```
+
+<br>
+
+<samp>hanxw · developer · 2026</samp>
+
+</div>
